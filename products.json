@@ -1,0 +1,16 @@
+[
+    {
+    "image": "/images/pink_crocs_1.jpg",
+    "title":"crocs",
+    "id": "1",
+    "description": "pink crocs with no jibbers",
+    "price": "5000"
+    },
+    {
+        "image":"/images/yellow_crocs.png",
+        "title": "crocs",
+        "id": "2",
+        "description": "Yellow crocs for teens",
+        "price":"5000"
+    }
+]
